@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mozart-maia/fuzzy-goggles/issues"
   },
-  "homepage": "https://github.com/mozart-maia/fuzzy-goggles#readme"
+  "homepage": "https://github.com/mozart-maia/fuzzy-goggles#readme",
+  "publishConfig": {
+    "@<em>mozart-maia</em>:registry": "https://npm.pkg.github.com"
+  }
 }
